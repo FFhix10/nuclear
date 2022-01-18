@@ -24,7 +24,7 @@
     "electron-store": "^5.1.0",
     "electron-timber": "^0.5.1",
     "get-artist-title": "^1.2.0",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "md5": "^2.2.1",
     "nodebrainz": "^2.1.1",
     "react": "^16.12.0",
